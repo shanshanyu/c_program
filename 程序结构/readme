@@ -1,0 +1,32 @@
+C语言中每行语句结束都的有一个分号作为结束符 ;
+
+程序结构分为： 顺序结构  分支结构   循环结构
+
+
+顺序结构没什么好说的，从上往下执行
+
+
+
+分支结构：
+if   
+
+if..else
+
+
+if..elseif..elseif..else
+
+
+switch(x){
+  case 'x': xx;break;
+  case 'y': xx;break;
+  default 'z': xx;
+}
+
+还有一个条件表达式  ?: ,python 中没有条件运算符，是通过 if..else 实现的
+
+循环结构：
+while..
+
+do..while..
+
+for(;;)..
