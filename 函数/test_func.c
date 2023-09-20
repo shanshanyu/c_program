@@ -8,7 +8,6 @@ int main(){
   exit(0);
 }
 
-
 void test(){
   printf("jerry is a mouse\n");
 }
