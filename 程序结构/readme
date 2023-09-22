@@ -30,3 +30,5 @@ while..
 do..while..
 
 for(;;)..
+
+循环条件只要不为 0，就可以执行，和 java 不同，java 要求循环条件是 布尔值，为 true 则执行，为 false 不执行。
