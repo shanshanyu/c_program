@@ -1,0 +1,33 @@
+预处理包括：
+
+文件包含
+
+宏定义
+
+条件编译
+
+
+
+条件编译结构：
+#ifdef xx:
+  xx
+#else
+  xx
+#endif
+
+
+#ifndef xx:
+  xx
+#else
+  xx
+#endif
+
+
+#if xx
+  xx
+#else
+  xx
+#endif
+
+
+如果不需要else，可以省略
